@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 Esto es una prueba del trabajo en donde trabajamos en el mismo archivo.
 Esperamos que salga mal.
-=======
 asdasdasdsad
 
 
 Esto es una prueba del trabajo en donde trabajamos en el mismo archivo.
 Esperamos que salga bien.
->>>>>>> 99c791a0d2673d0fb7c473202b23b5a52d335d05
