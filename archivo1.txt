@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 esto es una prueba del conflicto
+=======
+Modificando archivos hasta que alguno falle.
+>>>>>>> 2e91e58aaa0c2957c4de22c7a6b4ebfc10f31649
