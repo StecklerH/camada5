@@ -1,1 +1,79 @@
-sadasdasdasdasdasdasd
+comandos de git hub
+
+para montar repositorio global
+
+git init primero sobre la carpeta que se quiere hacer
+
+para consultar se usa ls -a
+
+git config user.name "usuario de git hud"
+
+git config user.email "correo"
+
+para que se configure siemrpe en el mismo pc
+
+git config --global user.name "usuario de git hud"
+git config --global user.email "correo"
+
+agregar archivos en el repositorio de git local
+
+git add mas archivo si es uno por uno
+
+git add . te agrega todos los archivos en la carpeta local
+
+git status sirve para ver los estados de los archivos
+
+Confirmando archivos creando commits
+
+git commit -m "aqui va el mensaje entre comillas"
+
+git log nos muestra un historial de los commits
+
+git checkout nombre del archivo sirve para recuperarlo si esta comitiado
+
+git rm --cached "nombre del archivo" hace que deje de seguir
+
+git push enviar los commit al repo
+
+git pull trae los commit del repo
+
+git commit --amend sirve para editar el commit se sale y guarda con :wq
+
+git reflog sirve para revisar los cambios dentro de los commit
+
+git diff hash de los commits muestra los archivos modificado en direfentes commits
+
+-------------------------------------------------------------------------------------------------------
+token de seguridad de githud 
+
+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
+
+-------------------------------------------------------------------------------------------------------
+
+git branch -M main cambiamos el nombre de la rama master
+
+para hacer un push-------------------------------------------------------------------------------------
+
+git remote add origin https://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@github.com/StecklerH/camada5.git
+
+revisar la configuracion usamos el comando
+
+nano .git/config 
+
+el -u sirve para que cree la rama de origen en el repo si no la tiene
+
+git push -u origin main touch 
+
+git push origin si ya se tiene listo el main en el origen
+
+siempre se debe hacer el pull
+
+hacer git pull
+
+git pull origin main trae todo lo que esra de arriba
+
+abre un nano :wq
+
+despues del pull se puede usar un git push
+
+git push origin main
