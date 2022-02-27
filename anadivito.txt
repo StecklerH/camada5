@@ -1,3 +1,7 @@
 Probando cambiar el archivo
 esto es una prueba
+<<<<<<< HEAD
 quiero que falle
+=======
+aca estoy escribiendo yo 
+>>>>>>> 0fe2567f1e153a0b7b6252555ef97e4e46fa521b
